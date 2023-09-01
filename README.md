@@ -285,7 +285,7 @@ map()
 lambda()
 
 
-1. Array/List:
+## 1. Array/List:
 clear()	
 copy()
 count()
@@ -297,7 +297,7 @@ remove()
 reverse()
 sort()	
 
-2. String:
+## 2. String:
 capitalize()
 casefold()
 center()	
@@ -344,22 +344,22 @@ translate()
 upper()	
 zfill()
 
-4.Stack:
+## 3.Stack:
 append()
 push()
 pop()
 
-5.Queue:
+## 4.Queue:
 append()
 push()
 pop()
 from collection import deque
 
-6.Tree:
+## 5.Tree:
 from binarytree import Node
 
-7. Heap:
+## 6. Heap:
 heapq(){library func.}
 
-8.Hashmap:
+## 7.Hashmap:
 dict()
