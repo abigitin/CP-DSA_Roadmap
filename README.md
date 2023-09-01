@@ -126,9 +126,11 @@
 - [Evaluation of Postfix Expression]()
 - [Associativity and Unary Operators]()
 ### Problems On Stack
-- []()
-- []()
-- []()
+- [Valid Parentheses]()
+- [Implement Stack using Queues]()
+- [Binary Tree Preorder Traversal]()
+- [Baseball Game]()
+- [Make The String Great]()
 ## Queue 
 - [Queue Introduction and Array Implementation]()
 - [Linked List Implementation of Queue]()
@@ -138,9 +140,11 @@
 - [Priority Queue]()
 - [Queue using two Stack]()
 ### Problems On Queue
-- []()
-- []()
-- []()
+- [First Unique Character in a String]()
+- [Number of Recent Calls]()
+- [Implement Queue using Stacks]()
+- [Time Needed to Buy Tickets]()
+- [Number of Students Unable to Eat Lunch]()
 ## Trees
 
 - [Introduction]()
@@ -189,10 +193,11 @@
 - [HeapSort]()
 - [Heap as a Priority Queue]()
 ### Problems On Heap
-- []()
-- []()
-- []()
-- []()
+- [Relative Ranks]()
+- [Kth Largest Element in a Stream]()
+- [Delete Greatest Value in Each Row]()
+- [Last Stone Weight]()
+- [The K Weakest Rows in a Matrix]()
 ## Graph 
 - [Tree Vs Graph]()
 - [Graph and its representations]()
