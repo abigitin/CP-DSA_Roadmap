@@ -5,23 +5,26 @@
 
 
 
-## Basic Maths
+## Basic Maths & prerequisites
 
-- [Divisibility & Large Numbers](https://www.wikipedia.org/)
-- [Prime Numbers](https://www.wikipedia.org/)
-- [GCD and LCM](https://www.wikipedia.org/)
-- [Modular Arithmetic](https://www.wikipedia.org/)
-- [Factorial](https://www.wikipedia.org/)
-- [Fibonacci Numbers](https://www.wikipedia.org/)
-- [Set Theory (Basics)]()
-- [Basic Combinatorics](https://www.wikipedia.org/)
+- [Divisibility & Large Numbers]()
+- [Prime Numbers]()
+- [GCD and LCM]()
+- [Modular Arithmetic]()
+- [Factorial]()
+- [Fibonacci Numbers]()
+- [Set Theory (Basic)]()
+- [Graph (Basic)]()
+- [Concept Of logic Gates]()
+- [BitWise Operations]
+- [Basic Combinatorics]()
 ## Flowcharts & Pseudocode
 - [Introduction]()
 - [Problem Solving]()
 ## Programming Language
-- [C++](https://www.wikipedia.org/)
-- [JAVA](https://www.wikipedia.org/)
-- [PYTHON](https://www.wikipedia.org/)
+- [C++]()
+- [JAVA]()
+- [PYTHON]()
 ## Learn about Complexities
 - [Time Complexity]()
 - [Space Complexity]()
@@ -69,6 +72,12 @@
 - []()
 - []()
 - []()
+## Recursion
+- [Introduction To Function]()
+- [Why Recursion]()
+- [Flow of recursive programs]()
+- [Convert iteration to Recursion]()
+- [Tail recursion]()
 ## Matrices(Optional)
 - [Diagonal Matrix]()
 - [Lower & Upper Triangular Matrix]()
@@ -115,4 +124,129 @@
 - []()
 - []()
 - []()
+## Trees
 
+- [Introduction]()
+- [Height vs Nodes in Binary Tree]()
+- [Binary Trees]()
+- [Strict Binary Tress]()
+- [Linked Representation Of BST]()
+- [Full vs Complete Binary Trees]()
+- [Strict vs Complete Binary Trees]()
+- [Traversal]()
+- [Inorder Preorder Postorder]()
+
+## Binary Search Tree
+- [BST Introduction]()
+- [Searching in a Binary Search Tree]()
+- [Insert in BST]()
+- [Deletion from BST]()
+## AVL Tree
+- [Introduction to AVL Tree]()
+- [Inserting in AVL]()
+- [Inorder predecessor and successor]()
+- [AVL Rotations]()
+- [Deletion in AVL]()
+- [Height Analysis Of AVL Tree]()
+## B Tree
+- [Introduction]()
+## B+ Tree
+- [Introduction]()
+- [B tree Vs B+ Tree]()
+### Problems On Tree
+- []()
+- []()
+- []()
+- []()
+- []()
+## Heap 
+- [Introducction To Heap]()
+- [Theory]()
+- [Insertion in a Heap]()
+- [Creation a Heap]()
+- [Heapify]()
+- [HeapSort]()
+- [Heap as a Priority Queue]()
+### Problems On Heap
+- []()
+- []()
+- []()
+- []()
+## Graph 
+- [Tree Vs Graph]()
+- [Graph and its representations]()
+- [Breadth First Traversal for a Graph]()
+- [Depth First Traversal for a Graph]()
+- [Spanning Tree]()
+- [Prim's Minimum Cost Spanning Tree]()
+- [Kruskal Algorithm]()
+- [DisJoint SubSet]()
+- [Dijkstra’s shortest path algorithm (Optional)]()
+- [Topological Sort (Optional)]()
+### Problems On Graph
+- []()
+- []()
+- []()
+- []()
+## Sorting Algorithm
+- [Criteria used for Analysing Sort]()
+- [Efficient Bubble Sort ]()
+- [Analysis of Bubble Sort ]()
+- [Insertion Sort]()
+- [Analysis of Insertion Sort]()
+- [Selection Sort]()
+- [Analysis of Selection Sort]()
+- [Quick Sort]()
+- [Analysis of Quick Sort]()
+- [Merge Sort]()
+- [Analysis of Merge Sort]()
+- [Bin/Bucket Sort (Optional)]()
+- [Radix Sort(Optional)]()
+- [Shell Sort(Optional)]()
+### Problems On Sorting Techniques
+- []()
+- []()
+- []()
+- []()
+## Searching Algorithms
+- [Linear Search]()
+- [Binary Search]()
+### Problems On Searching Techniques
+- []()
+- []()
+- []()
+- []()
+## Hashing Techniques (Optional)
+- [Introduction To Hashing]()
+- [Chaining]()
+- [liner Probing]()
+- [Quadratic Probing]()
+- [Double Hashing]()
+- [Hash Function]()
+
+# Standard Template Library in C++
+- [What is STL?]()
+## 1.Containers
+###   Sequential
+- [vector]()
+- [deque]()
+- [list]()
+### Associative 
+- [set]()
+- [Multiset]()
+- [map]()
+- [multimap]()
+### Adapters
+- [stack]()
+- [queue]()
+- [priority queue]()
+## 2. Algorithms
+- [Sorting]()
+- [Searching]()
+- [Useful STL Algorithms]() 
+## Miscellaneous
+- [Others]()
+# Collections in Java
+
+
+# Python Standard Library
