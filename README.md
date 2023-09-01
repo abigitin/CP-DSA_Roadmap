@@ -1,6 +1,4 @@
-
 # Complete CP & DSA Roadmap For Absolute Beginners 
-
 ![image](https://yt3.googleusercontent.com/h0n8phylgeZKuMlGmcPhkOM8rkV1IHTr5oumqZL581iQCSeMeFrnmYB69a69RQAQoVqgxM5ENX8=s900-c-k-c0x00ffffff-no-rj)
 
 
@@ -16,7 +14,7 @@
 - [Set Theory (Basic)]()
 - [Graph (Basic)]()
 - [Concept Of logic Gates]()
-- [BitWise Operations]
+- [BitWise Operations]()
 - [Basic Combinatorics]()
 ## Flowcharts & Pseudocode
 - [Introduction]()
