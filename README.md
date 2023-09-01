@@ -291,16 +291,16 @@ lambda()
 
 
 ### 1. Array/List:
-clear()	
-copy()
-count()
-extend()	
-index()	
-insert()	
-pop()	
-remove()	
-reverse()
-sort()	
+- clear()	
+- copy()
+- count()
+- extend()	
+- index()	
+- insert()	
+- pop()	
+- remove()	
+- reverse()
+- sort()	
 
 ### 2. String:
 capitalize()
