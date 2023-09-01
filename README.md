@@ -278,3 +278,88 @@
 
 
 # Python Standard Library
+tuple()
+set()
+dictionary()
+map()
+lambda()
+
+
+1. Array/List:
+clear()	
+copy()
+count()
+extend()	
+index()	
+insert()	
+pop()	
+remove()	
+reverse()
+sort()	
+
+2. String:
+capitalize()
+casefold()
+center()	
+count()
+encode()
+endswith()
+expandtabs()
+find()
+format()	
+format_map()	
+index()	
+isalnum()	
+isalpha()	
+isascii()	
+isdecimal()
+isdigit()	
+isidentifier()	
+islower()
+isnumeric()	
+isprintable()	
+isspace()	
+istitle()	
+isupper()	
+join()	
+ljust()	
+lower()	
+lstrip()	
+maketrans()	
+partition()	
+replace()	
+rfind()	
+rindex()	
+rjust()	
+rpartition()	
+rsplit()	
+rstrip()
+split()	
+splitlines()
+startswith()
+strip()	
+swapcase()	
+title()	
+translate()	
+upper()	
+zfill()
+
+4.Stack:
+append()
+push()
+pop()
+
+5.Queue:
+append()
+push()
+pop()
+from collection import deque
+
+6.Tree:
+from binarytree import Node
+
+7. Heap:
+heapq(){library func.}
+
+8.Hashmap:
+dict()
