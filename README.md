@@ -16,7 +16,7 @@
 - [Set Theory (Basic)]()
 - [Graph (Basic)]()
 - [Concept Of logic Gates]()
-- [BitWise Operations]
+- [BitWise Operations]()
 - [Basic Combinatorics]()
 ## Flowcharts & Pseudocode
 - [Introduction]()
