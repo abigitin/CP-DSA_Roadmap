@@ -368,3 +368,7 @@ lambda()
 
 ### 7.Hashmap:
 - dict()
+
+# Authors
+
+[@Hikari006](https://github.com/Hikari006)    [@Lunatic5578](https://github.com/Lunatic5578)    [@abigitin](https://github.com/abigitin)
