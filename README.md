@@ -48,7 +48,7 @@
 - [Array in JAVA]()
 - [Array in PYTHON]()
 ### Array ADT
-- [Array ADT](https://www.codewithharry.com/videos/data-structures-and-algorithms-in-hindi-6/)(https://www.codewithharry.com/videos/data-structures-and-algorithms-in-hindi-7/)(https://www.codewithharry.com/videos/data-structures-and-algorithms-in-hindi-8/)
+- [Array ADT]()
 - [Insertion & Deletion]()
 - [Linear Search]()
 - [Binary Search]()
