@@ -48,15 +48,15 @@
 - [Array in JAVA]()
 - [Array in PYTHON]()
 ### Array ADT
-- [Array ADT]()
+- [Array ADT](https://www.codewithharry.com/videos/data-structures-and-algorithms-in-hindi-6/)(https://www.codewithharry.com/videos/data-structures-and-algorithms-in-hindi-7/)(https://www.codewithharry.com/videos/data-structures-and-algorithms-in-hindi-8/)
 - [Insertion & Deletion]()
-- [Liner Search]()
+- [Linear Search]()
 - [Binary Search]()
 - [Complexity Analysis Of Binary Search]()
 - [Reverse and Shift an Array]()
 - [Merging Arrays]()
 - [Sort an Array (Bubble Sort)]()
-### Problem on Array
+### Problems on Array
 - [Maximum and minimum element](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1)
 - [Reverse Array](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
 - [Merge Array](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
@@ -280,7 +280,11 @@
 ## Miscellaneous
 - [Others]()
 # Collections in Java
-
+- [What are Collections?]()
+- []()
+- []()
+- []()
+- []()
 
 # Python Standard Library
 tuple()
