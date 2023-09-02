@@ -274,12 +274,10 @@
 ## Miscellaneous
 - [Others]()
 # Collections in Java
-- [What are Collections?]()
-- []()
-- []()
-- []()
-- []()
-
+- [Java Collections Framework](https://www.programiz.com/java-programming/collections)
+- [Java Collection Interface](https://www.programiz.com/java-programming/collection-interface)
+- [Java Interface](https://www.geeksforgeeks.org/interfaces-in-java/)
+- [Detailed Study of Collections in Java](https://www.geeksforgeeks.org/collections-in-java-2/)
 # Python Standard Library
 tuple()
 set()
