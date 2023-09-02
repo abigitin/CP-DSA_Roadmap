@@ -96,9 +96,9 @@
 - [Introduction](https://www.geeksforgeeks.org/introduction-to-linked-list-data-structure-and-algorithm-tutorial/)
 - [Linked List vs Array](https://www.geeksforgeeks.org/linked-list-vs-array/)
 - [Application and Advantages of Linked List](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/?ref=lbp)
-- [Insertion & Deletion]()
-- [Length of a Linked List (Iterative and Recursive)]()
-- [Reverse a linked list]()
+- [Basic Operations in a Linked List](https://www.programiz.com/dsa/linked-list-operations)
+- [Length of a Linked List (Iterative and Recursive)](https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/)
+- [Reverse a linked list](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 ### Problems on Linked List
 - [Reverse the Linked List. (Both Iterative and recursive)](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 - [Remove Duplicates in a sorted Linked List.](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)
