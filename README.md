@@ -37,25 +37,22 @@
 - [Access Control]()
 ## Array
 ### Introduction To Array
-- [What is Array]()
-- [Static vs Dynamic Arrays]()
-- [2D Arrays]()
-- [Row Major Formula for 2D Arrays]()
-- [Column Major Formula for 2D Arrays]()
+- [What is Array](https://www.geeksforgeeks.org/what-is-array/)
+- [Static vs Dynamic Arrays](https://www.geeksforgeeks.org/static-data-structure-vs-dynamic-data-structure/)
+- [2D Arrays and their Mapping](https://www.javatpoint.com/data-structure-2d-array)
 ### Array in Different language
     Choose any one 
 - [Array in C/C++]()
 - [Array in JAVA]()
 - [Array in PYTHON]()
 ### Array ADT
-- [Array ADT]()
-- [Insertion & Deletion]()
-- [Linear Search]()
-- [Binary Search]()
-- [Complexity Analysis Of Binary Search]()
-- [Reverse and Shift an Array]()
-- [Merging Arrays]()
-- [Sort an Array (Bubble Sort)]()
+- [Array ADT](https://brilliant.org/wiki/arrays-adt/)
+- [Array Operations](https://www.codewithharry.com/videos/data-structures-and-algorithms-in-hindi-9/)
+- [Searching in Array](https://www.codewithharry.com/videos/data-structures-and-algorithms-in-hindi-12/)
+- [Complexity Analysis Of Binary Search](https://www.geeksforgeeks.org/complexity-analysis-of-binary-search/)
+- [Reverse and Shift an Array](https://www.codingninjas.com/studio/library/reversal-algorithm-for-array-rotation)
+- [Merging Arrays](https://www.geeksforgeeks.org/merge-two-sorted-arrays/)
+- [Sort an Array](https://www.thedshandbook.com/sorting-in-arrays/)
 ### Problems on Array
 - [Maximum and minimum element](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1)
 - [Reverse Array](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
@@ -66,10 +63,8 @@
 - [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)
 ## String
-- [Reverse The String]()
-- [Palindrome]()
-- [Finding Duplicates in String]()
-- [Reverse Words]()
+- [String and its Operations](https://www.geeksforgeeks.org/introduction-to-strings-data-structure-and-algorithm-tutorials/)
+- [Applications and Advantages/Disadvantages of String](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-string/)
 ### Problems On String
 - [Reverse a Word in String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
@@ -86,9 +81,8 @@
 - [Convert iteration to Recursion]()
 - [Tail recursion]()
 ## Matrices(Optional)
-- [Diagonal Matrix]()
-- [Lower & Upper Triangular Matrix]()
-- [Row & Column major mapping ]()
+- [Introduction to Matrices in Data Structure and its Operations](https://www.geeksforgeeks.org/introduction-to-matrix-or-grid-data-structure-and-algorithms-tutorial/)
+- [Row-wise vs Column-wise Traversal](https://www.geeksforgeeks.org/row-wise-vs-column-wise-traversal-matrix/)
 ### Problem On Matrices
 - [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
 - [Search an element in a Matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)
@@ -99,9 +93,9 @@
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 - [Sort Diagonal](https://leetcode.com/problems/sort-the-matrix-diagonally/)
 ## Linked List
-- [Introduction]()
-- [Linked List vs Array]()
-- [Display]()
+- [Introduction](https://www.geeksforgeeks.org/introduction-to-linked-list-data-structure-and-algorithm-tutorial/)
+- [Linked List vs Array](https://www.geeksforgeeks.org/linked-list-vs-array/)
+- [Application and Advantages of Linked List](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/?ref=lbp)
 - [Insertion & Deletion]()
 - [Length of a Linked List (Iterative and Recursive)]()
 - [Reverse a linked list]()
