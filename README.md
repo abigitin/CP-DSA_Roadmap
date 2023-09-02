@@ -42,9 +42,9 @@
 - [2D Arrays and their Mapping](https://www.javatpoint.com/data-structure-2d-array)
 ### Array in Different language
     Choose any one 
-- [Array in C/C++]()
-- [Array in JAVA]()
-- [Array in PYTHON]()
+- [Array in C/C++](https://www.w3schools.com/c/c_arrays.php)
+- [Array in JAVA](https://www.w3schools.com/java/java_arrays.asp)
+- [Array in PYTHON](https://www.w3schools.com/python/python_arrays.asp)
 ### Array ADT
 - [Array ADT](https://brilliant.org/wiki/arrays-adt/)
 - [Array Operations](https://www.codewithharry.com/videos/data-structures-and-algorithms-in-hindi-9/)
