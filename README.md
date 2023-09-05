@@ -21,7 +21,7 @@
 - [Problem Solving](https://www.youtube.com/watch?v=lhELGQAV4gg)
 ## Programming Language
 - [C++](https://www.youtube.com/watch?v=oi1ffu6lBXE&t=5068s)
-- [JAVA]()
+- [JAVA](https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q&feature=shared)
 - [PYTHON]()
 ## Learn about Complexities
 - [Time Complexity](https://www.youtube.com/watch?v=9TlHvipP5yA)
