@@ -22,7 +22,7 @@
 ## Programming Language
 - [C++](https://www.youtube.com/watch?v=oi1ffu6lBXE&t=5068s)
 - [JAVA](https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q&feature=shared)
-- [PYTHON]()
+- [PYTHON](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&ab_channel=Telusko)
 ## Learn about Complexities
 - [Time Complexity](https://www.youtube.com/watch?v=9TlHvipP5yA)
 - [Space Complexity](https://www.youtube.com/watch?v=QovOdd80A4s)
